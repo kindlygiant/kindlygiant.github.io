@@ -1,13 +1,14 @@
 {
-  "main.css": "/static/css/main.0b9b769b.chunk.css",
-  "main.js": "/static/js/main.4e4dbe80.chunk.js",
-  "main.js.map": "/static/js/main.4e4dbe80.chunk.js.map",
+  "main.css": "/static/css/main.6bde2148.chunk.css",
+  "main.js": "/static/js/main.4f11d3be.chunk.js",
+  "main.js.map": "/static/js/main.4f11d3be.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.73913a32.chunk.js": "/static/js/2.73913a32.chunk.js",
-  "static/js/2.73913a32.chunk.js.map": "/static/js/2.73913a32.chunk.js.map",
+  "static/js/2.bbfb2200.chunk.js": "/static/js/2.bbfb2200.chunk.js",
+  "static/js/2.bbfb2200.chunk.js.map": "/static/js/2.bbfb2200.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.d90cf376f798d3a09d4cf47b864cf5c0.js": "/precache-manifest.d90cf376f798d3a09d4cf47b864cf5c0.js",
+  "precache-manifest.5b261284e764018e0fe3bd9708790354.js": "/precache-manifest.5b261284e764018e0fe3bd9708790354.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.0b9b769b.chunk.css.map": "/static/css/main.0b9b769b.chunk.css.map"
+  "static/css/main.6bde2148.chunk.css.map": "/static/css/main.6bde2148.chunk.css.map",
+  "static/media/uth_logo.svg": "/static/media/uth_logo.583fc6f1.svg"
 }
