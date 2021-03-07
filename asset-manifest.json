@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7927b045.chunk.css",
-    "main.js": "/static/js/main.c9988f63.chunk.js",
-    "main.js.map": "/static/js/main.c9988f63.chunk.js.map",
+    "main.css": "/static/css/main.fcec733c.chunk.css",
+    "main.js": "/static/js/main.203e9c91.chunk.js",
+    "main.js.map": "/static/js/main.203e9c91.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.878c9308.js",
     "runtime-main.js.map": "/static/js/runtime-main.878c9308.js.map",
-    "static/js/2.a08c0bc0.chunk.js": "/static/js/2.a08c0bc0.chunk.js",
-    "static/js/2.a08c0bc0.chunk.js.map": "/static/js/2.a08c0bc0.chunk.js.map",
+    "static/js/2.cc60ebf3.chunk.js": "/static/js/2.cc60ebf3.chunk.js",
+    "static/js/2.cc60ebf3.chunk.js.map": "/static/js/2.cc60ebf3.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7927b045.chunk.css.map": "/static/css/main.7927b045.chunk.css.map",
-    "static/js/2.a08c0bc0.chunk.js.LICENSE.txt": "/static/js/2.a08c0bc0.chunk.js.LICENSE.txt",
+    "static/css/main.fcec733c.chunk.css.map": "/static/css/main.fcec733c.chunk.css.map",
+    "static/js/2.cc60ebf3.chunk.js.LICENSE.txt": "/static/js/2.cc60ebf3.chunk.js.LICENSE.txt",
     "static/media/GrandCanyon_poster_landscape_desktop.0f2649d3.png": "/static/media/GrandCanyon_poster_landscape_desktop.0f2649d3.png",
     "static/media/placeholder.39a842d0.png": "/static/media/placeholder.39a842d0.png",
     "static/media/theme.a42797b5.wav": "/static/media/theme.a42797b5.wav",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.878c9308.js",
-    "static/js/2.a08c0bc0.chunk.js",
-    "static/css/main.7927b045.chunk.css",
-    "static/js/main.c9988f63.chunk.js"
+    "static/js/2.cc60ebf3.chunk.js",
+    "static/css/main.fcec733c.chunk.css",
+    "static/js/main.203e9c91.chunk.js"
   ]
 }
